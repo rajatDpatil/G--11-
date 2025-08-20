@@ -20,3 +20,4 @@ if st.button("Verify"):
             st.error("This news is Fake!! ")
     else:
         st.warning("Please enter some text to verify ")
+
